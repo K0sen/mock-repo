@@ -193,3 +193,11 @@ Hey, people! Let's dance =)
  <hr>
  Hi :alien:s! You are awesome! Here one more ![kitty](gif/200w_d.gif))
  
+ <hr>
+ 
+ Meow meow purr purr meow! <br>
+  ./\…/\                   <br>
+ (.‘•..•’.)                <br>
+  ..=*=..                  <br>
+ (.\.||./.)~~**            <br>
+ 
